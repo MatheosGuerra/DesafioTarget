@@ -1,0 +1,3 @@
+// Na primeira ida, eu ligaria o primeiro interruptor e esperaria o tempo suficente para esquentar a lampada conectada a ela, depois, apagaria e ligaria o segundo interruptor, 
+// na segunda ida, veria qual lampada desligada está mais quente, a que estiver, o segundo interruptor está conectado a ela, depois, veria qual lampada está mais fria, a que estiver,
+// seria a do terceiro interruptor, e a que sobrar, que estaria acesa, é a do primeiro interruptor.
